@@ -1,0 +1,42 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+22.083333333333332,,,,,,,,250.0,,,,,,,,,7.34
+22.8,,,,,,,,218.0,,,,,,,,,7.32
+24.016666666666666,,,,,,,,211.0,,,,,,,,,7.44
+24.8,,,,,,,,200.0,,,,,,,,,7.44
+26.0,,92.0,,,,,,,64,,114,100.0,15,160.0,33.277801513671875,,
+26.666666666666668,,,,,,,,122.0,,,,,,,,,
+27.0,,67.0,,1 No Response,1 No Response,3,1.0 ET/Trach,,80,,82,100.0,15,116.0,34.5,,
+27.3,,,,,,,,106.0,,,,,,,,,7.36
+27.5,,71.0,,,,,,,78,,89,100.0,16,133.0,,,
+28.0,,64.0,,1 No Response,1 No Response,3,1.0 ET/Trach,,82,,86,100.0,16,132.0,36.72222137451172,,
+29.0,,74.0,,1 No Response,1 No Response,3,1.0 ET/Trach,,93,,93,100.0,16,140.0,,,
+29.5,,60.0,,,,,,,94,,73,100.0,16,101.0,,,
+29.583333333333332,,57.0,,,,,,,97,,69,100.0,16,96.0,,,
+29.683333333333334,,,,,,,,197.0,,,,,,,,,7.43
+29.75,,69.0,,,,,,,92,,87,100.0,16,123.0,,,
+30.0,,70.0,,1 No Response,1 No Response,3,1.0 ET/Trach,,96,,88,100.0,20,122.0,,,
+31.0,,65.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,98,,80,100.0,17,108.0,37.0,,
+32.0,,69.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,96,,87,100.0,4,123.0,36.000001695421005,,
+32.36666666666667,,,,,,,,,,,,,,,,,7.43
+33.0,,77.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,124,,93,100.0,22,127.0,37.777801513671875,,
+34.0,,73.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,104,,92,100.0,4,127.0,,,
+35.0,,72.0,,1 No Response,3 Abnorm flexion,5,1 No Response,,128,,88,100.0,21,113.0,38.055599212646484,,
+36.0,,77.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,105,,94,100.0,8,125.0,37.722223069932724,,
+37.0,,76.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,122,,91,100.0,21,123.0,,,
+37.43333333333333,,,,,,,,,,,,,,,,,7.44
+37.93333333333333,,,,,,,,146.0,,,,,,,,,
+38.0,,73.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,159.0,118,,87,100.0,21,113.0,38.0000008477105,,
+39.0,,65.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,118.0,121,,79,100.0,23,109.0,,,
+40.0,,70.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,91.0,104,,87,100.0,7,113.0,37.83333248562283,,
+41.0,,70.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,86.0,114,,86,100.0,23,117.0,,,
+42.0,,67.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,186.0,93,,87,100.0,20,130.0,37.38890075683594,,
+42.56666666666667,,,,,,,,,,,,,,,,,7.47
+43.0,,70.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,97,,90,100.0,21,132.0,37.055599212646484,,
+44.0,,70.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,175.0,113,,86,100.0,7,119.0,37.555599212646484,,
+44.45,,,,,,,,110.0,,,,,,,,,
+44.61666666666667,,,,,,,,116.0,,,,,,,,,7.45
+45.0,,70.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,141.0,110,,87,100.0,21,117.0,,,
+45.5,,68.0,,,,,,,99,,90,100.0,20,137.0,,,
+46.0,,64.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,84.0,100,,84,100.0,19,131.0,,,
+47.0,,67.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,63.0,95,,89,100.0,21,131.0,,,
+48.0,,68.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,135.0,96,,90,100.0,5,135.0,37.22222222222222,,

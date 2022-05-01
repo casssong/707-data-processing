@@ -1,0 +1,26 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+7.566666666666666,,,,,,,,122.0,,,,,,,,,7.45
+9.3,,,,,,,,118.0,,,,,,,,,7.45
+10.033333333333333,,,,,,,,150.0,,,,,,,,,7.57
+10.966666666666667,,,,,,,,158.0,,,,,,,,,7.47
+11.55,,,,,,,,132.0,,,,,,,,,7.21
+12.05,,,,,,,,107.0,,,,,,,,,7.31
+13.266666666666667,,,,,,,,120.0,,,,,,,,,7.37
+14.7,,,,,,,,155.0,,,,,,,,,7.4
+16.0,,,,3 To speech,1 No Response,,1.0 ET/Trach,,,,,,,,,,
+16.2,,,,,,,,144.0,,,,65.0,,,,,7.35
+17.0,,,,3 To speech,5 Localizes Pain,,1.0 ET/Trach,,,,,,,,,,
+17.266666666666666,,,,,,,,145.0,,,,,,,,,7.37
+20.0,,,,3 To speech,6 Obeys Commands,,1.0 ET/Trach,,,,,,,,,,
+20.3,,,,,,,,127.0,,,,,,,,,7.39
+22.05,,,,,,,,90.0,,,,,,,,,7.41
+24.0,,,,4 Spontaneously,6 Obeys Commands,,1.0 ET/Trach,,,,,,,,,,
+24.266666666666666,,,,,,,,,,,,,,,,,7.39
+28.0,,,,4 Spontaneously,6 Obeys Commands,,1.0 ET/Trach,,,,,,,,,,
+28.266666666666666,,,,,,,,144.0,,,,97.0,,,,,7.4
+28.6,,,,,,,,,,,,73.0,,,,,
+29.0,,,,4 Spontaneously,6 Obeys Commands,,5 Oriented,,,,,,,,,,
+32.0,,,,4 Spontaneously,6 Obeys Commands,,5 Oriented,,,,,,,,,,
+36.0,,,,4 Spontaneously,6 Obeys Commands,,5 Oriented,,,,,,,,,,
+44.0,,,,4 Spontaneously,6 Obeys Commands,,5 Oriented,,,,,,,,,,
+48.0,,,,4 Spontaneously,6 Obeys Commands,,4 Confused,,,,,,,,,,

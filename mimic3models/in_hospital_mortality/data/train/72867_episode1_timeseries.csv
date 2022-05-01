@@ -1,0 +1,49 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+15.833333333333334,,,,,,,,133.0,,,,,,,,,7.32
+16.216666666666665,,,,,,,,146.0,,,,,,,,,7.35
+16.633333333333333,,,,,,,,173.0,,,,,,,,,7.41
+17.183333333333334,,,,,,,,188.0,,,,,,,,,7.43
+17.566666666666666,,,,,,,,200.0,,,,,,,,,7.42
+19.383333333333333,,,,,,,,,,,,,,,,103.7818496,
+19.416666666666668,,,,,,,,,82,,,,21,,,,
+19.433333333333334,,,,,,,,,,,,95.0,,,,,
+19.466666666666665,,70.0,,,,,,,,,84,,,109.0,,,
+19.5,,,,,,,,252.0,,,,,,,,,
+19.666666666666668,,,,,,,,228.0,,,,,,,,,7.34
+20.0,,69.0,0.7,None,No response,,No Response-ETT,,91,,87,99.0,18,117.0,,120.4,
+20.083333333333332,,,,,,,,,,,,,,,36.77777777777778,,
+21.0,,83.0,0.6,To Speech,Obeys Commands,,No Response-ETT,,85,,106,96.0,20,145.0,,,
+21.183333333333334,,,,,,,,,,,,,,,,120.4,
+22.0,,99.0,,To Speech,Obeys Commands,,No Response-ETT,360.0,110,,134,100.0,19,201.0,,,
+23.0,,71.0,,To Speech,Obeys Commands,,No Response-ETT,340.0,100,,91,97.0,19,132.0,,,
+24.0,,70.0,0.4,To Speech,Obeys Commands,,No Response-ETT,303.0,96,,89,98.0,18,127.0,37.72222222222222,,
+25.0,,69.0,,To Speech,Obeys Commands,,No Response-ETT,266.0,96,,87,97.0,17,124.0,,,
+26.0,,68.0,,To Speech,Obeys Commands,,No Response-ETT,249.0,98,,88,97.0,17,133.0,,,
+27.0,,67.0,,To Speech,Obeys Commands,,No Response-ETT,197.0,94,,87,97.0,16,130.0,,,
+28.0,,69.0,0.4,To Speech,Obeys Commands,,No Response-ETT,160.0,101,,87,97.0,24,126.0,37.833333333333336,,
+29.0,,69.0,,To Speech,Obeys Commands,,No Response-ETT,152.0,98,,89,97.0,22,131.0,,,
+29.35,,,,,,,,,,,,,,,,,7.46
+30.0,,66.0,,To Speech,Obeys Commands,,No Response-ETT,132.0,95,,86,97.0,22,130.0,,,
+31.0,,72.0,,To Speech,Obeys Commands,,No Response-ETT,114.0,98,,94,97.0,21,142.0,,,
+32.0,,71.0,0.4,To Speech,Obeys Commands,,No Response-ETT,145.0,96,,93,97.0,20,142.0,37.611111111111114,,
+33.0,,67.0,,To Speech,Obeys Commands,,No Response-ETT,,100,,86,96.0,24,134.0,,,
+34.0,,66.0,,To Speech,Obeys Commands,,No Response-ETT,161.0,97,,87,97.0,17,134.0,,,
+34.61666666666667,,,,,,,,,,,,,,,,,7.46
+35.0,,74.0,,Spontaneously,Obeys Commands,,Oriented,160.0,98,,96,95.0,21,149.0,,,
+36.0,,75.0,,Spontaneously,Obeys Commands,,Oriented,148.0,102,,97,95.0,,149.0,36.388888888888886,,
+36.016666666666666,,,,,,,,,,,,,18,,,,
+37.0,,72.0,,Spontaneously,Obeys Commands,,Oriented,,93,,95,96.0,16,151.0,,,
+38.0,,80.0,,Spontaneously,Obeys Commands,,Oriented,174.0,100,,98,96.0,20,139.0,,,
+39.0,,,,Spontaneously,Obeys Commands,,Oriented,,,,,,,,,,
+40.0,,,,Spontaneously,Obeys Commands,,Oriented,198.0,,,,,,,36.94444444444444,,
+40.31666666666667,,75.0,,,,,,,110,,97,93.0,,146.0,,,
+40.4,,,,,,,,,,,,,24,,,,
+41.0,,81.0,,Spontaneously,Obeys Commands,,Oriented,,105,,100,93.0,20,142.0,,,
+42.0,,79.0,,Spontaneously,Obeys Commands,,Oriented,,91,,98,95.0,16,144.0,,,
+43.0,,89.0,,To Speech,Obeys Commands,,Oriented,,113,,115,97.0,18,163.0,,,
+43.63333333333333,,,,,,,,181.0,,,,,,,,,
+44.0,,78.0,,To Speech,Obeys Commands,,Oriented,178.0,70,,103,97.0,18,155.0,37.111111111111114,,
+45.0,,79.0,,To Speech,Obeys Commands,,Oriented,,72,,104,97.0,13,156.0,,,
+46.0,,74.0,,To Speech,Obeys Commands,,Oriented,,68,,100,96.0,17,156.0,,,
+47.0,,72.0,,To Speech,Obeys Commands,,Oriented,,92,,109,97.0,17,158.0,,,
+48.0,,75.0,,To Speech,Obeys Commands,,Oriented,181.0,73,,101,97.0,15,155.0,36.55555555555556,116.4,

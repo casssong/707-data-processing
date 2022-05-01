@@ -1,0 +1,50 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+11.666666666666666,,,,,,,,,,,,,,,,,6.0
+11.733333333333333,,,,,,,,83.0,,,,75.0,,,,,7.36
+13.0,,75.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,83,,105,96.0,23,165.0,35.777801513671875,90.4000015258789,
+13.5,,82.0,,,,,,,76,,14,96.0,23,143.0,,,
+13.75,,83.0,,,,,,,71,,110,97.0,19,159.0,,,
+14.0,,85.0,,,,,,,74,,112,96.0,25,158.0,,,
+14.5,,,,,,,,110.0,,,,,,,,,
+14.983333333333333,,,,,,,,119.0,,,,,,,,,
+15.0,,67.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,80,,84,96.0,22,117.0,,,
+16.0,,89.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,84,,107,98.0,27,136.0,,,
+17.0,,62.0,,,,,,,66,,80,96.0,24,111.0,37.88890075683594,,
+18.0,,93.0,,3 To speech,6 Obeys Commands,13,4 Confused,,95,,110,98.0,21,135.0,,,
+19.0,,64.0,,,,,,,74,,87.333297729492188,94.0,25,134.0,,,
+20.0,,59.0,,3 To speech,6 Obeys Commands,13,4 Confused,,66,,84,94.0,27,134.0,37.5,,
+21.0,,69.0,,3 To speech,6 Obeys Commands,13,4 Confused,,71,,88.333297729492188,94.0,24,127.0,,,
+21.883333333333333,,,,,,,,,,,,,,,,,7.43
+22.0,,62.0,,3 To speech,6 Obeys Commands,13,4 Confused,,73,,86.666702270507812,94.0,24,136.0,,,
+23.0,,64.0,,3 To speech,6 Obeys Commands,13,4 Confused,,74,,92.333297729492188,94.0,25,149.0,,,
+24.0,,62.0,,3 To speech,6 Obeys Commands,13,4 Confused,125.0,74,,89.333297729492188,94.0,23,144.0,37.777801513671875,,
+25.0,,64.0,,3 To speech,6 Obeys Commands,13,4 Confused,,79,,92.666702270507812,95.0,22,150.0,,,
+25.65,,,,,,,,,,,,,,,,,7.43
+26.0,,69.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,124.0,78,,99.333297729492188,98.0,29,160.0,,,
+27.0,,75.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,89,,101.66699981689453,100.0,24,155.0,,,
+27.9,,,,,,,,,,,,,,,,,7.41
+28.0,,65.0,,3 To speech,6 Obeys Commands,13,4 Confused,,79,,85,100.0,24,127.0,37.83333248562283,,
+29.0,,69.0,,3 To speech,6 Obeys Commands,13,4 Confused,,79,,92.666702270507812,100.0,23,140.0,,,
+30.0,,67.0,,3 To speech,6 Obeys Commands,13,4 Confused,,68,,95,100.0,22,151.0,,,
+32.0,,70.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,77,,96,99.0,22,148.0,37.16669845581055,,
+33.0,,78.0,,,,,,,87,,99,100.0,27,126.0,,,
+34.0,,,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,,,,,,,,,
+35.0,,72.0,,,,,,,78,,92,96.0,25,120.0,,,
+36.0,,65.0,,3 To speech,6 Obeys Commands,13,4 Confused,,72,,82,100.0,18,108.0,36.777801513671875,,
+36.6,,,,,,,,119.0,,,,,,,,,
+36.95,,,,,,,,,,,,,,,,,7.4
+37.0,,68.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,80,,85,99.0,19,110.0,,,
+37.983333333333334,,,,,,,,119.0,,,,,,,,,7.43
+38.0,,75.0,,3 To speech,6 Obeys Commands,13,4 Confused,,73,,94.333297729492188,95.0,25,133.0,,,
+39.0,,63.0,,3 To speech,6 Obeys Commands,13,4 Confused,,93,,85.666702270507812,96.0,26,131.0,,,
+40.0,,64.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,68,,86.666702270507812,96.0,25,132.0,36.88890075683594,,
+41.0,,67.0,,3 To speech,6 Obeys Commands,13,4 Confused,,75,,93.333297729492188,97.0,27,146.0,,,
+41.5,,,,,,,,108.0,,,,,,,,,7.42
+42.0,,85.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,91,,78,98.0,31,159.0,,,
+43.0,,78.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,86,,75,96.0,27,157.0,,,
+44.0,,70.0,,3 To speech,6 Obeys Commands,13,4 Confused,,74,,93.666702270507812,95.0,26,141.0,36.67222340901693,,
+45.0,,81.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,89,,92,98.0,26,158.0,,,
+45.25,,,,,,,,110.0,,,,,,,,,7.41
+46.0,,71.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,112.0,94,,93.666702270507812,99.0,25,149.0,,,
+47.0,,75.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,89,,97,97.0,27,161.0,,,
+48.0,,79.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,93,,99,96.0,22,159.0,36.83333502875434,,

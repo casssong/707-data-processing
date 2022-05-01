@@ -1,0 +1,50 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+10.866666666666667,,,,,,,,131.0,,,,98.0,,,,,7.35
+12.6,,,,,,,,124.0,,,,,,,,,
+12.733333333333333,,,,,,,,,,,,,,,,,7.3
+14.4,,,,,,,,,,,,,,,,,7.33
+17.233333333333334,,,,,,,,,,,,,,,,,7.36
+20.366666666666667,,,,,,,,,,,,99.0,3,,,,
+20.5,,65.0,,,,,,,99,,79,99.0,17,101.0,38.16669845581055,,
+20.75,,72.0,,,,,,,91,,88,99.0,18,116.0,,,
+21.0,,62.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,89,,77,100.0,18,104.0,,,
+22.0,,58.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,138.0,78,,74,100.0,17,103.0,,,
+23.0,,56.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,73,,72,100.0,3,100.0,37.6111094156901,,
+24.0,,64.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,76,,82,100.0,17,112.0,,,
+25.0,,64.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,75,,84,99.0,18,121.0,,,
+25.066666666666666,,,,,,,,132.0,,,,,,,,,
+25.5,,62.0,,,,,,,80,,81,100.0,18,115.0,,,
+26.0,,71.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,76,,81,99.0,18,114.0,,,
+26.066666666666666,,,,,,,,132.0,,,,,,,,,
+26.5,,71.0,,,,,,,87,,81,99.0,18,114.0,,,
+27.0,,62.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,94,,78,98.0,6,107.0,37.6111094156901,,
+28.0,,59.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,88,,74,99.0,19,102.0,,,
+28.3,,,,,,,,144.0,,,,,,,,,7.39
+29.0,,64.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,88,,82,99.0,19,115.0,,,
+29.3,,,,,,,,144.0,,,,,,,,,7.39
+30.0,,60.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,86,,78,99.0,18,112.0,,,
+31.0,,61.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,90,,78,98.0,8,112.0,37.0,,
+32.0,,68.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,101,,82,100.0,21,110.0,,,
+33.0,,71.0,,1 No Response,6 Obeys Commands,8,1.0 ET/Trach,157.0,103,,92,99.0,22,124.0,,,
+33.333333333333336,,,,,,,,,,,,98.0,20,,,,
+34.0,,66.0,,1 No Response,6 Obeys Commands,8,1.0 ET/Trach,,106,,81,99.0,19,111.0,,,
+34.166666666666664,,66.0,,,,,,,,,81,,,111.0,,,
+35.0,,66.0,,1 No Response,6 Obeys Commands,8,1.0 ET/Trach,,102,,82,98.0,20,114.0,37.83333248562283,,
+35.15,,,,,,,,,,,,,,,,,7.43
+36.0,,72.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,112,,90,98.0,20,126.0,,,
+36.15,,,,,,,,,,,,,,,,,7.43
+37.0,,67.0,,1 No Response,6 Obeys Commands,8,1.0 ET/Trach,,109,,81,98.0,19,105.0,,,
+38.0,,72.0,,,6 Obeys Commands,,1.0 ET/Trach,,112,,90,98.0,21,128.0,,,
+39.0,,70.0,,,6 Obeys Commands,,1.0 ET/Trach,148.0,115,,87,98.0,22,123.0,37.83333248562283,,
+39.166666666666664,,,,,,,,,,,,99.0,18,,,,
+40.0,,68.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,111,,85,97.0,21,120.0,,,
+41.0,,70.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,119,,88,98.0,21,126.0,,,
+42.0,,68.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,101,,87,98.0,17,123.0,,,
+42.583333333333336,,,,,,,,,,,,98.0,20,,,,
+43.0,,68.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,104,,87,98.0,20,124.0,38.0000008477105,,
+44.0,,67.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,96,,86,97.0,20,123.0,,,
+45.0,,71.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,148.0,109,,89,99.0,22,128.0,,,
+45.31666666666667,,,,,,,,,,,,,,,,,6.0
+46.0,,71.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,103,,91,97.0,23,129.0,,,
+47.0,,73.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,97,,95,97.0,23,134.0,37.66669845581055,,
+48.0,,82.0,,3 To speech,6 Obeys Commands,10,1 No Response,,100,,107,100.0,22,155.0,,,

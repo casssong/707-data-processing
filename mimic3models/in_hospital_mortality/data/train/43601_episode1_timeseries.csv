@@ -1,0 +1,69 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+8.666666666666666,,,,,,,,113.0,,,,,,,,,7.42
+11.966666666666667,,,,,,,,142.0,,,,,,,,,7.42
+14.066666666666666,,,,,,,,143.0,,,,,,,,,7.49
+15.066666666666666,,,,,,,,143.0,,,,,,,,,7.49
+16.85,,,,,,,,170.0,,,,,,,,,7.5
+17.85,,,,,,,,170.0,,,,,,,,,7.5
+18.0,,,,,,,,,,,,,,,,90.72,
+19.733333333333334,,,,,,,,178.0,,,,,,,,,
+19.85,,,,,,,,147.0,,,,,,,,,7.4
+20.0,,,,,,,,,,,,,16,,,,
+20.283333333333335,,,0.5,,,,,,,,,,0,,,,
+20.333333333333332,,,,,,,,,,,,97.0,,,,,
+20.35,,,,,,,,,74,,,,,,,,
+20.366666666666667,,,,,,,,,,,,,17,,,,
+20.383333333333333,,63.0,,,,,,,,,96,,,155.0,,,
+20.4,,,,,,,,,,,,,,,,90.7,
+20.416666666666668,,,,,,,,,78,,,97.0,17,,37.166666666666664,,
+20.733333333333334,,,,,,,,178.0,,,,,,,,,
+20.85,,,,,,,,147.0,,,,,,,,,7.4
+21.0,,71.0,,None,No response,,No Response-ETT,,74,,106,98.0,20,166.0,,,
+22.0,,61.0,0.5,Spontaneously,Obeys Commands,,No Response-ETT,,77,,92,95.0,24,151.0,,,
+22.833333333333332,,,,,,,,,,,,,,,,,7.46
+23.0,,55.0,,Spontaneously,Obeys Commands,,No Response-ETT,,77,,83,96.0,23,132.0,,,
+23.833333333333332,,,,,,,,,,,,,,,,,7.46
+24.0,,53.0,0.5,Spontaneously,Obeys Commands,,Confused,,69,,77,95.0,30,129.0,37.611111111111114,,
+25.0,,51.0,,Spontaneously,Obeys Commands,,No Response-ETT,,70,,74,96.0,20,126.0,,,
+25.016666666666666,,,,,,,,233.0,,,,,,,,,
+26.0,,48.0,,Spontaneously,Obeys Commands,,No Response-ETT,,70,,69,96.0,21,115.0,,,
+26.016666666666666,,,,,,,,233.0,,,,,,,,,
+27.0,,49.0,,Spontaneously,Obeys Commands,,No Response-ETT,,70,,70,96.0,39,116.0,,,
+28.0,,52.0,0.5,Spontaneously,Obeys Commands,,No Response-ETT,,67,,76,97.0,20,130.0,37.77777777777778,,
+28.833333333333332,,,,,,,,,,,,,20,,,,
+29.0,,46.0,,Spontaneously,Obeys Commands,,No Response-ETT,,70,,68,97.0,19,117.0,,,
+30.0,,55.0,,Spontaneously,Obeys Commands,,No Response-ETT,,70,,85,97.0,19,139.0,,,
+31.0,,57.0,,Spontaneously,Obeys Commands,,No Response-ETT,,74,,85,98.0,32,135.0,,,
+32.0,,61.0,0.5,,,,,,70,,90,97.0,19,140.0,37.55555555555556,,
+32.06666666666667,,,,To Speech,Obeys Commands,,No Response-ETT,,,,,,,,,,
+33.0,,59.0,,,,,,,70,,87,97.0,34,139.0,,,
+33.583333333333336,,,,To Speech,Obeys Commands,,No Response-ETT,,,,,,,,,,
+34.0,,48.0,,To Speech,Obeys Commands,,No Response-ETT,,72,,70,98.0,17,118.0,,,
+35.0,,,,To Pain,Localizes Pain,,No Response-ETT,,,,,,,,,,
+35.56666666666667,,,,,,,,,,,,99.0,,,,,
+35.583333333333336,,,,,,,,,66,,,,17,,,,
+35.666666666666664,,59.0,,,,,,,,,88,,,146.0,,,
+36.0,,49.0,0.4,,,,,,71,,76,98.0,17,135.0,37.166666666666664,,
+36.28333333333333,,,,Spontaneously,Obeys Commands,,No Response-ETT,,,,,,,,,,
+37.0,,54.0,,Spontaneously,Obeys Commands,,No Response-ETT,,71,,82,97.0,13,140.0,,,
+37.5,,,,,,,,189.0,,,,,,,,,
+37.95,,,,,,,,,,,,,,,,,7.51
+38.0,,58.0,,Spontaneously,Obeys Commands,,No Response-ETT,,73,,82,97.0,13,125.0,,,
+38.5,,,,,,,,189.0,,,,,,,,,
+38.583333333333336,,,0.4,,,,,,,,,98.0,15,,,,
+38.95,,,,,,,,,,,,,,,,,7.51
+39.0,,55.0,,,,,,,71,,82,98.0,13,134.0,,,
+39.266666666666666,,,0.5,,,,,,,,,,,,,,
+39.38333333333333,,,,To Speech,Obeys Commands,,Oriented,,,,,,,,,,
+39.416666666666664,,,0.4,,,,,,,,,,,,,,
+40.0,,53.0,0.5,To Speech,Obeys Commands,,Oriented,170.0,67,,78,95.0,19,129.0,,,
+41.0,,59.0,,,,,,,71,,84,96.0,19,134.0,37.0,,
+41.083333333333336,,,,To Speech,Obeys Commands,,Oriented,,,,,,,,,,
+42.0,,,,To Speech,Obeys Commands,,Confused,,,,,,,,,,
+43.0,,59.0,,,,,,,68,,88,97.0,18,141.0,,,
+43.233333333333334,,,,Spontaneously,Obeys Commands,,Confused,,,,,,,,,,
+44.0,,59.0,,Spontaneously,Obeys Commands,,Confused,,72,,89,98.0,16,144.0,37.44444444444444,,
+45.0,,53.0,,To Speech,Obeys Commands,,Confused,,72,,81,97.0,17,134.0,,,
+46.0,,55.0,,To Speech,Obeys Commands,,Confused,192.0,71,,83,97.0,15,133.0,,,
+47.0,,52.0,,Spontaneously,Obeys Commands,,Confused,,70,,80,97.0,17,132.0,37.27777777777778,,
+48.0,,53.0,,Spontaneously,Obeys Commands,,Confused,,71,,81,96.0,17,131.0,,,

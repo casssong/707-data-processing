@@ -1,0 +1,41 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+0.4666666666666667,,,,,,,,,,,,,,,,,7.51
+5.0,,,,,,,,188.0,,,,,,,,,
+13.066666666666666,,,,,,,,,,,,,,,,,7.53
+14.383333333333333,,,,,,,,,,,,,,,,,7.46
+16.483333333333334,,,,,,,,,,,,,,,,,7.39
+18.2,,,,,,,,,,,,,,,,,7.39
+19.0,,55.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,72,,83,99.0,16,133.0,36.66669845581055,,
+20.0,,46.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,72,,71,100.0,11,122.0,,,
+21.0,,54.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,79,,82,100.0,13,133.0,,,
+22.0,,46.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,75,,71,100.0,15,121.0,,,
+23.0,,56.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,83,,84,99.0,13,136.0,,,
+24.0,,52.0,,3 To speech,6 Obeys Commands,14,5 Oriented,152.0,89,,79,99.0,14,129.0,36.88890075683594,,
+25.0,,43.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,73,,67,98.0,16,110.0,,,
+26.0,,56.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,84,,82,98.0,20,122.0,,,
+27.0,,44.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,79,,67,98.0,18,109.0,,,
+28.0,,49.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,74,,74,98.0,16,130.0,37.33333163791232,,
+29.0,,45.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,71,,68,98.0,12,117.0,,,
+29.116666666666667,,,,,,,,137.0,,,,,,,,,
+29.766666666666666,,,,,,,,,,,,,,,,,7.32
+30.0,,53.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,83,,83,98.0,15,139.0,,,
+32.0,,55.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,81,,82,98.0,16,131.0,37.277801513671875,,
+33.0,,53.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,77,,79,100.0,14,124.0,,,
+34.0,,55.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,75,,82,95.0,15,125.0,,,
+34.5,,48.0,,,,,,,68,,,97.0,16,117.0,,,
+35.0,,58.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,85,,81,96.0,27,117.0,,,
+36.0,,45.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,162.0,66,,69,98.0,14,112.0,36.555599212646484,,
+37.0,,54.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,70,,81,99.0,17,125.0,,,
+38.0,,47.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,65,,71,98.0,13,113.0,,,
+39.0,,54.0,,,,,,,71,,81,96.0,13,125.0,,,
+40.0,,49.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,69,,74,97.0,16,115.0,36.61111195882162,,
+41.0,,45.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,63,,71,97.0,13,116.0,,,
+42.0,,50.0,,3 To speech,6 Obeys Commands,14,5 Oriented,,68,,77,94.0,13,119.0,,,
+42.166666666666664,,,,,,,,142.0,,,,,,,,,7.34
+42.5,,,,,,,,,,,,88.0,,,,,
+43.0,,53.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,68,,81,97.0,12,127.0,,,
+44.0,,48.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,65,,75,96.0,13,119.0,36.66669845581055,,
+45.0,,61.0,,,,,,,66,,97,96.0,15,150.0,,,
+46.0,,57.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,61,,90,97.0,13,140.0,,,
+47.0,,60.0,,,,,,,68,,94,96.0,11,143.0,,,
+48.0,,56.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,66,,89,95.0,13,137.0,36.555599212646484,,

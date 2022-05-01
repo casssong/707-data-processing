@@ -1,0 +1,68 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+3.4166666666666665,,,,,,,,,,,,,,,,,5.0
+3.533333333333333,,,,,,,,145.0,,,,86.0,,,,,7.21
+4.0,,88.0,,1 No Response,2 Abnorm extensn,4,1.0 ET/Trach,,105,,109,97.0,26,168.0,36.277801513671875,82.0,
+5.0,,96.0,,1 No Response,2 Abnorm extensn,4,1.0 ET/Trach,112.0,112,,112,100.0,16,173.0,,,
+5.233333333333333,,,,,,,,,,,,,,,,,7.27
+6.0,,86.0,,1 No Response,2 Abnorm extensn,4,1.0 ET/Trach,87.0,98,,103,100.0,16,148.0,,,
+6.733333333333333,,,,,,,,,,,,,,,,,7.33
+7.0,,83.0,,1 No Response,2 Abnorm extensn,4,1.0 ET/Trach,,99,,101,100.0,17,149.0,,,
+7.666666666666667,,53.0,,,,,,,84,,63,100.0,23,90.0,,,
+7.75,,59.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,83,,71,100.0,22,99.0,,,
+8.0,,,,,,,,,,,,,23,,,,
+9.0,,78.0,,,,,,,94,,101,100.0,22,138.0,37.66669845581055,,
+9.5,,,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,,,,,,,,,
+10.0,,67.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,85,,84,100.0,18,127.0,,,
+12.5,,,,,,,,,,,,,23,,,,
+12.75,,82.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,91,,104,100.0,22,150.0,38.333333333333336,,
+13.0,,88.0,,,,,,,90,,109,100.0,22,154.0,,,
+14.0,,,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,,,,,,,,,
+14.5,,74.0,,,,,,,88,,92,100.0,22,120.0,,,
+15.0,,62.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,87,,78,100.0,22,106.0,37.66669845581055,,
+15.083333333333334,,,,,,,,162.0,,,,,,,,,7.4
+15.833333333333334,,,,,,,,,,,,,,,,,5.0
+16.0,,64.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,89,,79,100.0,24,109.0,37.94444613986545,,
+16.95,,,,,,,,148.0,,,,,,,,,
+17.0,,76.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,85,,93,100.0,24,125.0,37.722223069932724,,
+18.0,,68.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,90,,83,99.0,24,112.0,,,
+19.0,,72.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,92,,87,99.0,24,117.0,,,
+19.3,,,,,,,,,,,,,,,,,7.4
+20.0,,71.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,179.0,93,,87.666702270507812,98.0,24,131.0,37.6111094156901,,
+21.0,,73.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,93,,89,99.0,24,121.0,,,
+22.0,,83.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,84,,99,99.0,17,130.0,,,
+23.0,,71.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,87,,88,99.0,24,119.0,,,
+23.016666666666666,,,,,,,,,,,,,,,,,7.39
+24.0,,68.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,143.0,91,,84,98.0,24,114.0,36.777801513671875,,
+24.25,,,,,,,,,,,,98.0,24,,,,
+25.0,,70.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,91,,87,98.0,24,119.0,,,
+26.0,,72.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,92,,101,99.0,24,143.0,,,
+27.0,,69.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,89,,86,98.0,24,120.0,,,
+27.466666666666665,,,,,,,,149.0,,,,,,,,,
+27.866666666666667,,,,,,,,,,,,98.0,,,,,7.41
+28.0,,63.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,142.0,88,,81,100.0,24,111.0,36.222220526801216,,
+29.0,,57.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,86,,73,100.0,24,103.0,,,
+29.966666666666665,,,,,,,,,,,,,,,,,7.42
+30.0,,59.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,84,,83,97.0,24,107.0,,,
+31.5,,62.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,83,,79,98.0,24,111.0,36.055599212646484,,
+31.75,,83.0,,,,,,,59,,106,100.0,24,143.0,,,
+32.0,,,,,,,,,,,,100.0,24,,,,
+33.0,,91.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,,97,,115,100.0,24,163.0,,,
+34.0,,66.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,79,,85,100.0,24,124.0,37.11111280653212,,
+35.0,,78.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,79,,98,100.0,24,134.0,,,
+36.0,,,,,,,,,,,,,24,,,,
+36.75,,32.0,,,,,,,87,,74,99.0,22,120.0,36.222220526801216,,
+37.0,,58.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,83,,76,100.0,24,108.0,,,
+38.0,,63.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,80,,82,100.0,24,121.0,,,
+39.0,,79.0,,1 No Response,5 Localizes Pain,7,1.0 ET/Trach,131.0,84,,102,100.0,24,144.0,37.6111094156901,,
+39.21666666666667,,,,,,,,,,,,,,,,,6.5
+40.0,,92.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,107,,115,100.0,24,148.0,,,
+41.0,,79.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,122.0,107,,100,98.0,25,131.0,,,
+42.0,,89.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,106,,110,99.0,23,142.0,37.6111094156901,,
+42.5,,,,,,,,126.0,,,,,,,,,
+43.0,,77.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,121.0,93,,95,99.0,24,132.0,,,
+44.0,,75.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,124.0,95,,95,100.0,24,133.0,37.6111094156901,,
+45.0,,71.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,116.0,94,,90,98.0,24,126.0,,,
+46.0,,88.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,106.0,104,,110,98.0,23,147.0,37.722223069932724,,
+47.0,,72.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,108.0,97,,91,99.0,24,129.0,,,
+47.85,,,,,,,,100.0,,,,,,,,,
+48.0,,65.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,100.0,90,,82,98.0,24,114.0,37.11111280653212,,

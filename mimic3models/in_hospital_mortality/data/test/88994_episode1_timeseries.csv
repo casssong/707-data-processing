@@ -1,0 +1,85 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+0.16666666666666666,,,,,,,,117.0,,,,,,,,,7.33
+1.3166666666666667,,,,,,,,142.0,,,,,,,,,7.31
+3.1166666666666667,,,,,,,,186.0,,,,,,,,,
+3.2333333333333334,,,,,,,,,,,,,,,,,7.31
+4.0,,,,None,Flex-withdraws,,No Response-ETT,,,,,,23,,,70.0,
+4.066666666666666,,87.0,1.0,,,,,,75,,118,100.0,18,157.0,,,
+4.116666666666666,,,,,,,,0.0,,,,,,,,,
+4.183333333333334,,92.0,,,,,,,79,,127,100.0,19,173.0,35.111111111111114,,
+4.216666666666667,,91.0,,,,,,,82,,123,100.0,22,167.0,,,
+4.233333333333333,,,,,,,,,,,,,,,,,7.31
+4.266666666666667,,,,,,,,,,,,,0,,,,
+4.333333333333333,,,1.0,,,,,,,,,,,,,,
+4.45,,,,,,,,,,,,,0,,,70.0,
+5.0,,69.0,,None,Flex-withdraws,,No Response-ETT,,78,,87,100.0,26,116.0,35.44444444444444,,
+5.433333333333334,,,0.5,,,,,,,,,,,,,,
+5.683333333333334,,,,,,,,,,,,,,,,,7.44
+6.0,,69.0,,None,Flex-withdraws,,No Response-ETT,,76,,88,100.0,26,118.0,36.111111111111114,,
+6.683333333333334,,,,,,,,,,,,,,,,,7.44
+7.0,,70.0,0.4,None,Flex-withdraws,,No Response-ETT,,84,,90,100.0,24,125.0,,,
+8.0,,82.0,,,,,,,102,,108,100.0,24,155.0,38.44444444444444,,
+8.383333333333333,,,,None,Abnormal Flexion,,No Response-ETT,,,,,,,,,,
+8.933333333333334,,48.0,,,,,,,,,60,,,97.0,,,
+9.0,,64.0,,None,Abnormal Flexion,,No Response-ETT,,94,,82,100.0,22,116.0,38.44444444444444,,
+9.883333333333333,,,,,,,,,,,,,,,,,5.5
+10.0,,82.0,,,,,,150.0,105,,113,100.0,24,168.0,,,
+10.083333333333334,,,,None,Abnormal Flexion,,No Response,,,,,,,,,,
+11.0,,85.0,,None,Abnormal Flexion,,No Response,,105,,114,100.0,24,165.0,,,
+12.0,,68.0,,,,,,,94,,86,100.0,23,120.0,38.55555555555556,,
+12.05,,,,None,Abnormal extension,,No Response-ETT,,,,,,,,,,
+12.5,,,0.4,,,,,,,,,100.0,0,,,,
+13.0,,78.0,,None,Abnormal extension,,No Response-ETT,,96,,99,99.0,23,138.0,,,
+14.0,,65.0,,None,Abnormal extension,,No Response-ETT,,96,,85,99.0,23,121.0,,,
+15.0,,63.0,,,,,,,93,,85,,22,125.0,,,
+15.566666666666666,,,,,,,,,,,,100.0,,,,,
+15.65,,,,None,Abnormal extension,,No Response-ETT,,,,,,,,,,
+16.0,,62.0,0.4,None,Abnormal extension,,No Response-ETT,160.0,89,,80,100.0,23,112.0,38.0,,
+17.0,,82.0,,None,,,No Response-ETT,,95,,103,100.0,,131.0,,,
+17.016666666666666,,,,,,,,,,,,,22,,,,
+18.0,,75.0,,None,Abnormal extension,,No Response-ETT,,93,,103,100.0,23,153.0,,,
+19.0,,65.0,0.4,None,Abnormal Flexion,,No Response-ETT,,103,,89,98.0,27,132.0,,,
+20.0,,62.0,,None,Abnormal Flexion,,No Response-ETT,,95,,81,99.0,24,120.0,37.72222222222222,,
+21.0,,65.0,,None,Flex-withdraws,,No Response-ETT,,99,,84,99.0,23,125.0,,,
+22.0,,64.0,,None,Flex-withdraws,,No Response-ETT,163.0,96,,83,100.0,23,121.0,,,
+22.75,,80.0,,,,,,,105,,110,100.0,23,167.0,,,
+23.0,,78.0,,None,Flex-withdraws,,No Response-ETT,,106,,105,100.0,23,160.0,38.166666666666664,,
+24.0,,,0.4,None,Flex-withdraws,,No Response-ETT,,103,,,100.0,23,,37.94444444444444,68.7,
+24.016666666666666,,53.0,,,,,,,,,65,,,85.0,,,
+24.05,,58.0,,,,,,,,,73,,,114.0,,,
+25.0,,62.0,,None,Flex-withdraws,,No Response-ETT,,96,,73,100.0,23,104.0,,,
+25.066666666666666,,,,,,,,156.0,,,,,,,,,
+25.35,,,,,,,,,,,,,,,,,7.47
+26.0,,84.0,,None,Flex-withdraws,,No Response-ETT,,91,,89,100.0,23,118.0,,,
+26.066666666666666,,,,,,,,156.0,,,,,,,,,
+26.35,,,,,,,,,,,,,,,,,7.47
+27.0,,73.0,0.4,None,Flex-withdraws,,No Response-ETT,,96,,98,100.0,22,147.0,,,
+28.0,,65.0,,,,,,,89,,90,100.0,23,138.0,37.666666666666664,,
+28.066666666666666,,,,None,Flex-withdraws,,No Response-ETT,,,,,,,,,,
+29.0,,60.0,,None,Flex-withdraws,,No Response-ETT,,94,,82,100.0,23,123.0,,,
+30.0,,59.0,,None,Flex-withdraws,,No Response-ETT,,83,,82,100.0,23,125.0,,,
+31.0,,82.0,0.4,None,Flex-withdraws,,No Response-ETT,,100,,116,100.0,24,172.0,,,
+32.0,,59.0,,None,Flex-withdraws,,No Response-ETT,,87,,83,100.0,23,130.0,37.611111111111114,,
+33.0,,67.0,,None,Flex-withdraws,,No Response-ETT,,86,,93,100.0,23,141.0,,,
+34.0,,64.0,,None,Flex-withdraws,,No Response-ETT,170.0,81,,87,100.0,23,129.0,,,
+35.0,,63.0,1.0,None,Flex-withdraws,,No Response-ETT,,84,,86,100.0,23,128.0,,,
+35.6,,,,,,,,,,,,,,,,,7.42
+36.0,,78.0,,None,Flex-withdraws,,No Response-ETT,,84,,99,100.0,18,137.0,37.55555555555556,,
+36.6,,,,,,,,,,,,,,,,,7.42
+37.0,,60.0,,None,Flex-withdraws,,No Response-ETT,,89,,81,100.0,16,119.0,,,
+38.0,,51.0,,None,Flex-withdraws,,No Response-ETT,,86,,75,100.0,16,125.0,,,
+39.0,,69.0,,None,Flex-withdraws,,No Response-ETT,,92,,93,100.0,18,137.0,,,
+39.416666666666664,,,,,,,,,,,,,,,,,7.43
+40.0,,65.0,0.4,None,Flex-withdraws,,No Response-ETT,157.0,98,,91,100.0,19,141.0,38.77777777777778,,
+40.416666666666664,,,,,,,,,,,,,,,,,7.43
+41.0,,60.0,,None,Flex-withdraws,,No Response-ETT,,94,,85,100.0,16,135.0,,,
+42.0,,56.0,,None,Flex-withdraws,,No Response-ETT,,103,,76,100.0,18,117.0,,,
+43.0,,68.0,,None,Flex-withdraws,,No Response-ETT,,106,,92,100.0,21,140.0,,,
+43.233333333333334,,,,,,,,,,,,,,,,,7.44
+44.0,,61.0,0.4,None,Flex-withdraws,,No Response-ETT,,110,,82,100.0,21,129.0,38.72222222222222,,
+44.233333333333334,,,,,,,,,,,,,,,,,7.44
+45.0,,56.0,,None,Flex-withdraws,,No Response-ETT,,87,,74,100.0,19,109.0,38.666666666666664,,
+46.0,,62.0,,None,Flex-withdraws,,No Response-ETT,184.0,87,,84,100.0,18,124.0,,,
+47.0,,74.0,,None,Flex-withdraws,,No Response-ETT,,89,,105,100.0,18,165.0,38.05555555555556,,
+47.6,,,,,,,,172.0,,,,,,,,,
+48.0,,59.0,0.4,None,Flex-withdraws,,No Response-ETT,,86,,80,100.0,21,120.0,,70.2,

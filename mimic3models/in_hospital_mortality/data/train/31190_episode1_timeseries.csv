@@ -1,0 +1,47 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+21.0,,,,,,,,217.0,,,,,,,,,
+22.433333333333334,,,,,,,,,,,,,,,,,7.43
+23.75,,,,,,,,173.0,,,,,,,,,7.42
+24.75,,,,,,,,173.0,,,,,,,,,7.42
+25.75,,48.0,,,,,,,93,,70,100.0,16,106.0,,,
+26.0,,50.0,,,,,,,97,,72,100.0,3,106.0,,,
+26.25,,65.0,,,,,,,96,,89,99.0,22,128.0,,,
+26.5,,54.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,87,,69,100.0,17,98.0,,,
+26.583333333333332,,53.0,,,,,,,87,,70,100.0,18,100.0,37.6111094156901,,
+26.65,,,,,,,,186.0,,,,,,,,,
+26.75,,50.0,,,,,,,82,,69,100.0,18,100.0,,,
+26.8,,,,,,,,166.0,,,,,,,,,7.43
+27.0,,57.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,82,,82,100.0,18,123.0,,,
+27.083333333333332,,49.0,,,,,,,91,,72,100.0,19,108.0,,,
+27.166666666666668,,43.0,,,,,,,84,,63,100.0,20,96.0,,,
+27.25,,42.0,,,,,,,80,,62,100.0,20,97.0,,,
+27.65,,,,,,,,186.0,,,,,,,,,
+27.8,,,,,,,,166.0,,,,,,,,,7.43
+28.0,,56.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,89,,83,100.0,20,126.0,,,
+29.0,,62.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,89,,89,100.0,19,130.0,,,
+30.0,,55.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,83,,79,100.0,17,118.0,,,
+31.0,,66.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,98,,91,99.0,5,129.0,37.83333248562283,,
+31.65,,,,,,,,,,,,,,,,,7.43
+32.0,,78.0,,3 To speech,5 Localizes Pain,9,1.0 ET/Trach,,98,,91,99.0,18,106.0,,,
+32.65,,,,,,,,,,,,,,,,,7.43
+33.0,,80.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,184.0,80,,92,99.0,18,108.0,,,
+33.333333333333336,,63.0,,,,,,,76,,81,99.0,18,101.0,,,
+34.0,,67.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,75,,85,99.0,18,108.0,,,
+35.0,,115.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,88,,86,99.0,7,143.0,37.555599212646484,,
+36.0,,57.0,,4 Spontaneously,6 Obeys Commands,11,1.0 ET/Trach,,86,,71,99.0,22,114.0,,,
+37.0,,57.0,,,,,,,76,,70,100.0,16,113.0,,,
+38.0,,57.0,,3 To speech,6 Obeys Commands,10,1.0 ET/Trach,,78,,82,100.0,18,131.0,,,
+38.61666666666667,,,,,,,,133.0,,,,99.0,,,,,7.47
+39.0,,58.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,150.0,82,,85,99.0,22,124.0,36.88890075683594,,
+39.166666666666664,,,,,,,,,,,,99.0,,,,,
+39.61666666666667,,,,,,,,133.0,,,,99.0,,,,,7.47
+40.0,,56.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,80,,85,98.0,18,129.0,,,
+40.5,,59.0,,,,,,,85,,90,100.0,19,140.0,,,
+41.0,,70.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,93,,100,98.0,24,141.0,,,
+42.0,,68.0,,4 Spontaneously,6 Obeys Commands,14,4 Confused,,86,,100,96.0,22,143.0,,,
+43.0,,70.0,,3 To speech,6 Obeys Commands,13,4 Confused,,87,,102,99.0,22,150.0,,,
+44.0,,54.0,,3 To speech,6 Obeys Commands,13,4 Confused,,89,,84,95.0,23,130.0,,,
+45.0,,64.0,,3 To speech,6 Obeys Commands,13,4 Confused,136.0,83,,99,98.0,21,154.0,36.44444359673394,,
+46.0,,63.0,,3 To speech,6 Obeys Commands,13,4 Confused,,83,,98,98.0,21,152.0,,,
+47.0,,56.0,,3 To speech,6 Obeys Commands,13,4 Confused,,85,,89,100.0,21,146.0,,,
+48.0,,54.0,,3 To speech,6 Obeys Commands,13,4 Confused,,87,,78,,22,123.0,,,

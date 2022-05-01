@@ -1,0 +1,44 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+15.666666666666666,,,,,,,,146.0,,,,,,,,,
+17.25,,,,,,,,,,,,,,,,,7.0
+18.5,,89.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,85,,107,100.0,19,143.0,37.722223069932724,77.69999694824219,
+19.0,,66.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,91,,83.666702270507812,100.0,14,119.0,,,
+19.083333333333332,,,,,,,,,,,,,,,,,7.0
+20.0,,66.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,93,,85,100.0,16,131.0,,,
+21.0,,65.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,89,,87,100.0,19,120.0,37.38890075683594,,
+22.0,,68.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,96,,89,99.0,18,123.0,,,
+22.5,,,,,,,,144.0,,,,,,,,,
+23.0,,64.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,83,,85,100.0,16,121.0,37.33333163791232,,
+24.0,,56.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,86,,75,99.0,19,107.0,,,
+25.0,,62.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,81,,85,100.0,18,128.0,,,
+25.566666666666666,,,,,,,,117.0,,,,,,,,,7.4
+26.0,,66.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,97,,86,96.0,19,116.0,,,
+26.75,,,,,,,,119.0,,,,,,,,,
+27.0,,65.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,88,,87,100.0,23,126.0,37.22222222222222,,
+28.0,,67.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,94,,89,100.0,20,129.0,,,
+29.0,,70.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,96,,94,100.0,18,133.0,,,
+30.0,,70.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,96,,93,97.0,18,133.0,,,
+31.0,,72.0,,3 To speech,6 Obeys Commands,12,3 Inapprop words,,94,,95,98.0,19,135.0,37.5,,
+31.5,,75.0,,,,,,,97,,97,98.0,17,129.0,,,
+32.0,,73.0,,3 To speech,6 Obeys Commands,12,3 Inapprop words,,93,,98,97.0,22,138.0,,,
+32.666666666666664,,,,,,,,120.0,,,,,,,,,
+33.0,,70.0,,2 To pain,5 Localizes Pain,10,3 Inapprop words,,95,,95,97.0,24,142.0,,,
+34.0,,75.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,102,,104,97.0,21,153.0,,,
+35.0,,65.0,,3 To speech,5 Localizes Pain,11,3 Inapprop words,,97,,91,98.0,24,141.0,37.6111094156901,,
+36.0,,68.0,,2 To pain,5 Localizes Pain,10,3 Inapprop words,,97,,94,100.0,27,137.0,,,
+37.0,,64.0,,2 To pain,5 Localizes Pain,10,3 Inapprop words,,97,,88,98.0,29,135.0,,,
+38.0,,62.0,,2 To pain,5 Localizes Pain,10,3 Inapprop words,,97,,86,100.0,28,128.0,,,
+39.0,,59.0,,1 No Response,5 Localizes Pain,9,3 Inapprop words,,95,,81,99.0,29,125.0,38.0000008477105,,
+39.166666666666664,,,,,,,,122.0,,,,,,,,,
+39.36666666666667,,,,,,,,,,,,,,,,,7.53
+40.0,,76.0,,1 No Response,5 Localizes Pain,9,3 Inapprop words,,107,,98,98.0,28,133.0,,,
+41.0,,75.0,,1 No Response,5 Localizes Pain,9,3 Inapprop words,,100,,102,100.0,32,148.0,38.055599212646484,,
+42.0,,71.0,,1 No Response,5 Localizes Pain,9,3 Inapprop words,,102,,96,100.0,26,137.0,,,
+43.0,,72.0,,1 No Response,5 Localizes Pain,8,2 Incomp sounds,,96,,98,100.0,30,140.0,37.722223069932724,,
+43.31666666666667,,,,,,,,135.0,,,,,,,,,7.55
+44.0,,77.0,,1 No Response,5 Localizes Pain,8,2 Incomp sounds,,98,,103,100.0,26,144.0,,,
+45.0,,75.0,,1 No Response,5 Localizes Pain,8,2 Incomp sounds,,89,,96,100.0,25,133.0,,,
+45.833333333333336,,,,,,,,,,,,,,,,,7.52
+47.0,,79.0,,1 No Response,5 Localizes Pain,8,2 Incomp sounds,141.0,100,,104,99.0,22,145.0,38.333333333333336,,
+47.88333333333333,,,,,,,,,,,,,,,,,7.53
+48.0,,80.0,,1 No Response,5 Localizes Pain,8,2 Incomp sounds,,94,,106,100.0,25,141.0,,,

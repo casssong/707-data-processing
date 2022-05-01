@@ -1,0 +1,42 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+15.0,,,,,,,,243.0,,,,,,,,,5.0
+19.0,,80.0,,1 No Response,6 Obeys Commands,8,1 No Response,,89,,98,100.0,20,152.0,36.66669845581055,,
+20.0,,,,2 To pain,6 Obeys Commands,9,1 No Response,,93,,,99.0,22,,,,
+20.25,,68.0,,,,,,,93,,92,100.0,23,172.0,,,
+21.0,,79.0,,2 To pain,6 Obeys Commands,9,1 No Response,339.0,99,,101,97.0,21,179.0,,,
+22.0,,78.0,,2 To pain,6 Obeys Commands,9,1 No Response,,103,,100,96.0,27,185.0,,,
+22.25,,109.0,,,,,,,95,,112,99.0,30,145.0,,,
+23.0,,66.0,,2 To pain,6 Obeys Commands,9,1 No Response,,90,,85,99.0,21,156.0,36.88890075683594,,
+24.0,,63.0,,2 To pain,6 Obeys Commands,9,1 No Response,,90,,83,99.0,24,157.0,,,
+25.0,,63.0,,2 To pain,6 Obeys Commands,9,1 No Response,,120,,85,99.0,27,171.0,,,
+26.0,,73.0,,2 To pain,6 Obeys Commands,9,1 No Response,,95,,91,97.0,37,151.0,,,
+26.233333333333334,,,,,,,,303.0,,,,,,,,,
+27.0,,61.0,,2 To pain,6 Obeys Commands,9,1 No Response,,93,,86,97.0,26,165.0,37.38890075683594,,
+27.233333333333334,,,,,,,,303.0,,,,,,,,,
+28.0,,67.0,,2 To pain,6 Obeys Commands,9,1 No Response,,92,,90,97.0,25,154.0,,,
+29.0,,78.0,,2 To pain,6 Obeys Commands,9,1 No Response,,83,,98,97.0,22,161.0,,,
+30.0,,67.0,,2 To pain,6 Obeys Commands,9,1 No Response,,83,,91,98.0,23,161.0,,,
+31.0,,75.0,,2 To pain,6 Obeys Commands,9,1 No Response,225.0,86,,95,97.0,29,161.0,36.83333502875434,,
+31.833333333333332,,,,,,,,,,,,,,,,,7.46
+32.0,,72.0,,1 No Response,5 Localizes Pain,7,1 No Response,175.0,86,,95,97.0,22,189.0,,,
+32.833333333333336,,,,,,,,,,,,,,,,,7.46
+33.0,,,,1 No Response,5 Localizes Pain,7,1 No Response,170.0,,,,,,,,,
+33.25,,66.0,,,,,,,82,,91,,21,159.0,,,
+33.5,,78.0,,,,,,,80,,99,97.0,20,191.0,,,
+34.0,,83.0,,1 No Response,5 Localizes Pain,7,1 No Response,152.0,77,,94,96.0,23,190.0,,,
+35.0,,86.0,,1 No Response,5 Localizes Pain,7,1 No Response,137.0,75,,123,98.0,19,191.0,36.33333418104384,,
+36.0,,83.0,,1 No Response,5 Localizes Pain,7,1 No Response,112.0,71,,89,98.0,20,179.0,,,
+37.0,,83.0,,1 No Response,5 Localizes Pain,7,1 No Response,97.0,73,,95,97.0,20,166.0,,,
+37.2,,,,,,,,95.0,,,,,,,,,7.42
+38.0,,87.0,,1 No Response,5 Localizes Pain,7,1 No Response,130.0,72,,123,97.0,22,192.0,,,
+38.2,,,,,,,,95.0,,,,,,,,,7.42
+39.0,,104.0,,3 To speech,5 Localizes Pain,9,1 No Response,150.0,80,,131,98.0,22,197.0,37.777801513671875,,
+40.0,,87.0,,1 No Response,5 Localizes Pain,7,1 No Response,149.0,65,,123,99.0,20,190.0,,,
+41.0,,88.0,,1 No Response,5 Localizes Pain,7,1 No Response,170.0,77,,112,97.0,28,175.0,,,
+42.0,,85.0,,1 No Response,5 Localizes Pain,7,1 No Response,190.0,70,,86,95.0,21,158.0,,,
+43.0,,64.0,,1 No Response,6 Obeys Commands,8,1 No Response,174.0,69,,81,95.0,24,137.0,36.555599212646484,,
+44.0,,58.0,,,,,,142.0,77,,72,99.0,19,120.0,,,
+44.5,,53.0,,,,,,,77,,62,,,92.0,,,
+45.916666666666664,,,,,,,,208.0,,,,99.0,,,,,7.46
+46.916666666666664,,,,,,,,208.0,,,,99.0,,,,,7.46
+47.15,,,,,,,,196.0,,,,98.0,,,,,7.49

@@ -1,0 +1,47 @@
+Hours,Capillary refill rate,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Mean blood pressure,Oxygen saturation,Respiratory rate,Systolic blood pressure,Temperature,Weight,pH
+17.0,,,,,,,,115.0,,,,,,,,,7.5
+21.0,,38.0,,,,,,,54,,63,98.0,16,131.0,35.44444613986545,,
+21.5,,43.0,1.0,,,,,,65,,72,99.0,19,145.0,,,
+22.0,,37.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,60,,56,98.0,18,118.0,,,
+23.0,,53.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,53,,86,99.0,15,159.0,36.277801513671875,,
+23.5,,,,,,,,109.0,,,,,,,,,7.37
+24.0,,56.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,51,,90,99.0,15,160.0,,,
+24.166666666666668,,,0.4000000059604645,,,,,,,,,99.0,3,,,,
+25.0,,61.0,,1 No Response,4 Flex-withdraws,6,1 No Response,,55,,96.666702270507812,99.0,14,168.0,,,
+25.316666666666666,,,,,,,,,,,,,,,,,7.4
+26.0,,55.0,,1 No Response,4 Flex-withdraws,6,1 No Response,,43,,85,99.0,13,151.0,,,
+27.0,,46.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,44,,73,99.0,12,139.0,,,
+28.0,,53.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,49,,85,100.0,12,156.0,36.277801513671875,,
+28.333333333333332,,,0.4000000059604645,,,,,,,,,100.0,6,,,,
+29.0,,53.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,53,,83,100.0,19,158.0,,,
+29.8,,,,,,,,,,,,,,,,,7.37
+29.816666666666666,,,,,,,,115.0,,,,,,,,,
+30.0,,50.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,55,,77,100.0,16,150.0,,,
+32.0,,44.0,0.4000000059604645,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,51,,,99.0,7,141.0,36.72222137451172,,
+33.0,,54.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,61,,78,100.0,18,158.0,,,
+33.21666666666667,,,0.4000000059604645,,,,,,,,,,,,,,
+33.5,,68.0,,,,,,,67,,,100.0,22,168.0,,,
+34.0,,53.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,63,,73,100.0,21,147.0,,,
+35.0,,65.0,,,,,,,62,,80,98.0,22,169.0,,,
+35.25,,,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,,,,,,,,,
+35.5,,61.0,,,,,,,63,,,98.0,22,171.0,,,
+35.75,,,,,,,,160.0,,,,98.0,,,,,7.41
+36.0,,55.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,61,,82,98.0,21,155.0,,,
+37.0,,54.0,0.4000000059604645,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,67,,76,,0,152.0,36.94444444444444,,
+39.0,,,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,,,,,,,,,
+40.0,,61.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,60,,81,100.0,19,158.0,,,
+40.25,,33.0,,,,,,,60,,65,100.0,19,129.0,,,
+40.5,,54.0,,,,,,,59,,83,100.0,20,158.0,,,
+41.0,,52.0,0.4000000059604645,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,56,,80,100.0,20,155.0,,,
+42.0,,51.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,55,,80,100.0,19,152.0,37.11111280653212,,
+42.05,,,,,,,,,,,,98.0,,,,,7.37
+42.75,,41.0,,,,,,,53,,73.666702270507812,100.0,20,139.0,,,
+43.0,,,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,,,,,,,,,
+43.5,,39.0,,,,,,,49,,75.666702270507812,100.0,19,149.0,,,
+44.0,,33.0,,1 No Response,3 Abnorm flexion,5,1.0 ET/Trach,,,,69.333297729492188,,,142.0,,,
+44.75,,,,,,,,,49,,,100.0,15,,,,
+45.0,,50.0,,1 No Response,1 No Response,3,1.0 ET/Trach,,48,,70,100.0,15,148.0,,,
+46.0,,55.0,0.4000000059604645,1 No Response,1 No Response,3,1.0 ET/Trach,,44,,84,100.0,14,159.0,36.66669845581055,,
+46.9,,,,,,,,164.0,,,,,,,,,7.41
+47.0,,61.0,,1 No Response,4 Flex-withdraws,6,1.0 ET/Trach,,48,,87,100.0,16,155.0,,,
+48.0,,56.0,,,,,,,51,,85,100.0,17,158.0,,,
